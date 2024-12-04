@@ -17,11 +17,15 @@ This is very much an early early version for testing more than anything. I've ba
  - Launch the game; open up the console and enter the following command: 
 	 - `mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C`
 
+# Downloads
+https://www.nexusmods.com/stalker2heartofchornobyl/mods/665/?tab=description
+
+
 ### Optional - Help improve this mod!
 There is a Debug mode you can use if you wish to help improve the accuracy of the identification.
 To use it, enter the following commands in the console:
 - `mod del /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C`
-- `mod add /Game/Mods/StalkerId/BP_StalkerIdentification_Debug.BP_StalkerIdentification_Debug_C'`
+- `mod add /Game/Mods/StalkerId/BP_StalkerIdentification_Debug.BP_StalkerIdentification_Debug_C`
 
 This debug mode behaves exactly the same, except it will print some text in the top left of your screen when you target an NPC.
 When you spot an NPC that doesn't identify as the right faction, please take a screenshot and send it may way (it's that text at the top that matters)
